@@ -2,7 +2,7 @@
   "name": "aptu.dev",
   "slug": "aptu-dev",
   "homepage": "https://aptu.dev",
-  "description": "Machine-payable API microservices: resume ATS scoring, domain agent-readiness audit, x402 conformance pre-flight check, BTC regime check, echo probe.",
+  "description": "Machine-payable API microservices: resume ATS scoring, agent-readiness audit, x402 pre-flight check, BTC regime check, echo probe.",
   "protocols": [
     "x402"
   ],
